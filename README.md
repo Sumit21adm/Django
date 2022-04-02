@@ -13,11 +13,28 @@
     - Installed Python Version 3 or Above
     - Installed Any Python IDE or VS Code
     - Preferred IDE 'PyCharm CE'
+    - Make Sure PIP Command is installed else Install by using:
+        - Command - python get-pip.py
 
-#### **Prequisites (Installed Python IDE- Preferred (PyCharm CE)**
+#### **Step1**
 
     - sac
-    -
+
+#### **Step2**
+
+    - sac
+
+#### **Step3**
+
+    - sac
+
+#### **Step4**
+
+    - sac
+
+#### **Step5**
+
+    - sac
 
 ## **Activities & Assignments**
 
