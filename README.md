@@ -8,11 +8,15 @@
 
 ## **Steps To Install A Django App**
 
+### **Prerequisites (Installed Python IDE- Preferred (PyCharm CE)**
+
+    - Installed Python Version 3 or Above
+    - Installed Any Python IDE or VS Code
+    - Preferred IDE 'PyCharm CE'
+
 ### **Prequisites (Installed Python IDE- Preferred (PyCharm CE)**
 
-#### **Prequisites (Installed Python IDE- Preferred (PyCharm CE)**
-
-    -
+    -sac
     -
 
 #### **Demo**
