@@ -34,15 +34,28 @@
 
     - Run Command => pip install django
 
-then
-
 #### **Step 4**
 
-    - django-admin startproject projectname
+    - django-admin startproject <WriteNewProjectName>
 
 #### **Step 5**
 
-    - sac,
+    - Change Directory to The New Project Created (e.g. cd <WriteNewProjectName>)
+
+#### **Step 6**
+
+    - python3 manage.py migrate (mac users)
+    - py manage.py migrate (windows users)
+
+#### **Step 7**
+
+    - python3 manage.py runserver (mac users)
+    - py manage.py runserver (windows users)
+
+#### **Step 7**
+
+    - python3 manage.py createsuperuser (mac users)
+    - py manage.py createsuperuser (windows users)
 
 ## **Activities & Assignments**
 
