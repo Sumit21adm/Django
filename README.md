@@ -52,7 +52,21 @@
     - python3 manage.py runserver (mac users)
     - py manage.py runserver (windows users)
 
-#### **Step 7**
+#### **Step 8**
+
+    - python3 manage.py createsuperuser (mac users)
+    - py manage.py createsuperuser (windows users)
+    -
+    - by Default User Name Is Your PC Name
+    - Provide Your Email ID
+    - Create A Password With Mix Characters then, Press Enter {Now, Your Admin Account is Created Successfully.}
+
+#### **Step 9**
+
+    - python3 manage.py startapp <NewAppName> (mac users)
+    - py manage.py startapp <NewAppName> (windows users)
+
+#### **Step 10**
 
     - python3 manage.py createsuperuser (mac users)
     - py manage.py createsuperuser (windows users)
