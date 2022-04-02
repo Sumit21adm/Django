@@ -66,10 +66,12 @@
     - python3 manage.py startapp <NewAppName> (mac users)
     - py manage.py startapp <NewAppName> (windows users)
 
-#### **Step 10**
+#### **Others**
 
-    - python3 manage.py createsuperuser (mac users)
-    - py manage.py createsuperuser (windows users)
+    - To Stop The Server Follow Command => Ctrl+c
+    - To Run The Server Follow Command => python3 manage.py runserver (From The Main Project Directory Where manage.py file is located.)
+    - To Migrate The Project => python3 manage.py migrate (From The Main Project Directory Where manage.py file is located.)
+    - To Migrate The App => python3 manage.py makemigrations <YourAppName> (From The Main Project Directory Where manage.py file is located.)
 
 ## **Activities & Assignments**
 
@@ -79,12 +81,18 @@
 
 ### **django-assesment1**
 
-    -
+    - Activity & Assignment Day2
+    - Integrating HTML, CSS, JS Files In Django
+    - Making Responsive Webpage Using Bootstrap In Django
 
 ### **Day3**
 
-    -
+    - Activity & Assignment Day3
+    - SQLlite Connectivity
+    - MySql Connectivity using Xampp Or Other Platforms (localhost)
+    - File Upload From Client Side & Storing at Server Side Location
+    - Creating Fields In the database using Forms & Models
 
 ## **Project**
 
-    -
+    - I am Working On Modules To Be There In My Ecomm Project .... ... ..
