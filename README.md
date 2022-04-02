@@ -15,7 +15,12 @@
     - Preferred IDE 'PyCharm CE'
     - Make Sure PIP Command is installed else Install by using:
         Mac Users Command   => python3 get-pip.py
-        Windows Command     =>
+        Windows Users Steps:
+        - Step 1: Download PIP get-pip.py. Before installing PIP, download the get-pip.py file. ...
+        - Step 2: Installing PIP on Windows. To install PIP type in the following: python get-pip.py. ...
+        - Step 3: Verify Installation. ...
+        - Step 4: Add Pip to Windows Environment Variables. ...
+        - Step 5: Configuration.
 
 #### **Step1**
 
