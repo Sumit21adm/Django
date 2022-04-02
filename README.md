@@ -22,25 +22,27 @@
         - Step 4: Add Pip to Windows Environment Variables. ...
         - Step 5: Configuration.
 
-#### **Step1**
+#### **Step 1**
 
-    - sac
+    - Create A Project from File Menu
 
-#### **Step2**
+#### **Step 2**
 
-    - sac
+    - Change Directory to The Project's Working Directory
 
-#### **Step3**
+#### **Step 3**
 
-    - sac
+    - Run Command => pip install django
 
-#### **Step4**
+then
 
-    - sac
+#### **Step 4**
 
-#### **Step5**
+    - django-admin startproject projectname
 
-    - sac
+#### **Step 5**
+
+    - sac,
 
 ## **Activities & Assignments**
 
