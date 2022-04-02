@@ -14,7 +14,8 @@
     - Installed Any Python IDE or VS Code
     - Preferred IDE 'PyCharm CE'
     - Make Sure PIP Command is installed else Install by using:
-        - Command - python get-pip.py
+        Mac Users Command   => python3 get-pip.py
+        Windows Command     =>
 
 #### **Step1**
 
